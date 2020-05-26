@@ -1,0 +1,10 @@
+{
+  "bindings": [
+    {
+      "name": "entityContext",
+      "type": "entityTrigger",
+      "direction": "in"
+    }
+  ],
+  "scriptFile": "../dist/consumptionStateActor/index.js"
+}
